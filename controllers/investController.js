@@ -388,7 +388,7 @@ const addInterest = async (investmentId) => {
 
 
 
-exports.makeInvestment = async (req, res) => {
+const makeInvestment = async (req, res) => {
     try {
         const { userId } = req.params;
         const { planId, amount } = req.body;
@@ -462,5 +462,6 @@ exports.makeInvestment = async (req, res) => {
 
 module.exports = {
     addInterest,
+    makeInvestment
     // ... other exports if needed
 };
