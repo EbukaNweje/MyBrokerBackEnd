@@ -134,7 +134,7 @@ exports.AdminSendEmail = async (req, res, next) => {
                               <td style="padding: 10px;">
                                   <div class="contact-info">
                                       <p><img src="https://i.ibb.co/K04zq8b/WCall.png" alt="" style="width: 20px;"> +1 (302) 786‑5689</p>
-                                      <p><img src="https://i.ibb.co/TL7k4FF/Container.png" alt="" style="width: 20px;"> okxcryptobase@gmail.com</p>
+                                      <p><img src="https://i.ibb.co/TL7k4FF/Container.png" alt="" style="width: 20px;"> unixswaptradecu@gmail.com</p>
                                       <p><img src="https://i.ibb.co/CbSFkwC/Wloc.png" alt="" style="width: 20px;"> 18 Eastbourne Rd, United Kingdom</p>
                                   </div>
                               </td>

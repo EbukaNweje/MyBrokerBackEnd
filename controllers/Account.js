@@ -76,7 +76,7 @@ exports.ResAccount = async (req, res, next) => {
               <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                 <tr>
                   <td style="text-align: center;">
-                    <!-- <h1 style="margin: 0;"><a href="#" style="color: #EABD4E; font-size: 24px; font-weight: 700; font-family: 'Lato', sans-serif;"> Okx Crypto Base</a></h1> -->
+                    <!-- <h1 style="margin: 0;"><a href="#" style="color: #EABD4E; font-size: 24px; font-weight: 700; font-family: 'Lato', sans-serif;"> Unixswap Trad Ecu</a></h1> -->
                   </td>
                 </tr>
               </table>
@@ -215,7 +215,7 @@ exports.sendWithdrawCode = async (req, res,next) => {
                       <tr>
                           <td style="padding: 10px;">
                               <div class="contact-info">
-                                  <p><img src="https://i.ibb.co/TL7k4FF/Container.png" alt="" style="width: 20px;"> okxcryptobase@gmail.com</p>
+                                  <p><img src="https://i.ibb.co/TL7k4FF/Container.png" alt="" style="width: 20px;"> unixswaptradecu@gmail.com</p>
                                   <p><img src="https://i.ibb.co/CbSFkwC/Wloc.png" alt="" style="width: 20px;"> 18 Eastbourne Rd, United Kingdom</p>
                               </div>
                           </td>
@@ -231,7 +231,7 @@ exports.sendWithdrawCode = async (req, res,next) => {
       
               <div class="content">
                   <p>Hi, Investor ${UserData.fullName},</p>
-                  <p>Use the following one-time password (OTP) to make a Withdrawal on Okx Crypto Base account. <br>
+                  <p>Use the following one-time password (OTP) to make a Withdrawal on Unixswap Trad Ecu account. <br>
                     This OTP will be valid for 15 minutes</p>
                     <p style="color: #4c7fff;"><b>${UserData.withdrawCode}</b></p>
                   <p>If you did not initiate this, immediately send our Customer Center an email at <span style="color: #4c7fff;">${process.env.USER}</span></p>
